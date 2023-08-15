@@ -1,0 +1,7 @@
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\bin\Debug\ClasesIniciales_15-08-23.exe.config
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\bin\Debug\ClasesIniciales_15-08-23.exe
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\bin\Debug\ClasesIniciales_15-08-23.pdb
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\obj\Debug\ClasesIniciales_15-08-23.csproj.AssemblyReference.cache
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\obj\Debug\ClasesIniciales_15-08-23.csproj.CoreCompileInputs.cache
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\obj\Debug\ClasesIniciales_15-08-23.exe
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\ClasesIniciales_15-08-23\obj\Debug\ClasesIniciales_15-08-23.pdb
