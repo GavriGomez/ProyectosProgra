@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{09F3ABBF-7DC9-47D9-922F-BD6169227040}</ProjectGuid>
+    <ProjectGuid>{D748363F-FDAE-45C1-82F5-0193C8D472E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClasesIniciales_15_08_23</RootNamespace>
-    <AssemblyName>ClasesIniciales_15-08-23</AssemblyName>
+    <RootNamespace>NuevoProyecto18Ago</RootNamespace>
+    <AssemblyName>NuevoProyecto18Ago</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Color.cs" />
-    <Compile Include="DispositivoMovil.cs" />
+    <Compile Include="Coche.cs" />
+    <Compile Include="color.cs" />
+    <Compile Include="PistaDeCarreras.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SmartphoneXiaomi9AT.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

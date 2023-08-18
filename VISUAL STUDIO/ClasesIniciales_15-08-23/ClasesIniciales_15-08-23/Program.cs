@@ -5,16 +5,29 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClasesIniciales_15_08_23
+    //actividad 18-Ago-23 clases de ñlas especificaciones de un celular
 {
     class Program
     {
         static void Main(string[] args)
         {// aqui abre el cuerpo del metodo main
-            // punto de inicio o de entrada al programa
-            // para declarar una variable hay que seguir la forma: tipo, nombre o identificador y valor de inicializaciòn
+         // punto de inicio o de entrada al programa
+         // para declarar una variable hay que seguir la forma: tipo, nombre o identificador y valor de inicializaciòn
 
 
-          //Linea de declaracion e instanciacion
+            //Linea de declaracion e instanciacion
+
+            SmartphoneXiaomi9AT NetworkTechnology = new SmartphoneXiaomi9AT();
+            //acà me quedè en  la tarea kjaskja
+
+
+
+
+
+
+
+
+
           DispositivoMovil miIphone = new DispositivoMovil(); // Representa la declaraciòn de un objeto
             //Modificar las caracteristicas del objeto
             miIphone.almacenamiento = 64;
