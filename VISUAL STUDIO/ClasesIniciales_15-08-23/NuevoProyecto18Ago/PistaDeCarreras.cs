@@ -2,13 +2,15 @@
 
 namespace NuevoProyecto18Ago
 {
-    public class PistaDeCarreras
+    public class PistaDeCarreras //Declaracion
     {
         public float longitud;
         public string nombre;
 
 
         public void Competir(Coche coche1, Coche coche2) //Mètodos de la clase
+            //Mètodo competir
+
         {//Bloque que abrimos en llave que abre y la que cierra. Al ejecutar el metodo deben estar dentro del bloque
 
             Console.WriteLine("Iniciando competencia entre" + coche1.Modelo + "contra" + coche2.Modelo); //Concatenaciòn de objetos
@@ -24,6 +26,7 @@ namespace NuevoProyecto18Ago
             else
             {
                 Console.WriteLine("Hubo un empate");
+                //El mètodo debe estar dentro del bloque de la clase
             }
 }
     }

@@ -4,3 +4,4 @@ C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO
 C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\NuevoProyecto18Ago\bin\Debug\NuevoProyecto18Ago.pdb
 C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\NuevoProyecto18Ago\obj\Debug\NuevoProyecto18Ago.exe
 C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\NuevoProyecto18Ago\obj\Debug\NuevoProyecto18Ago.pdb
+C:\Users\Alumno.ADARPABUAPMX\Documents\GAVRI WORKS\ProyectosProgra\VISUAL STUDIO\ClasesIniciales_15-08-23\NuevoProyecto18Ago\obj\Debug\CarreradeCoches.csproj.AssemblyReference.cache
